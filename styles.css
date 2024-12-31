@@ -1,0 +1,9 @@
+.web-highlighter-highlight {
+  background-color: #ffeb3b;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.web-highlighter-highlight:hover {
+  background-color: #fdd835;
+}
